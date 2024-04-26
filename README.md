@@ -1,6 +1,6 @@
 # Remove Armadillo Cholera Cloud/Smoke from the sky
 
-"Armadillo Cholera Cloud/Smoke in sky" unfortunatelly is not yet removable by streaming for RedM server side, only client side!
+"Armadillo Cholera Cloud/Smoke in sky" unfortunatelly is not yet removable by streaming for RedM server side, it is only RedM client side!
 So, for that you need to add the file popzone.ymt on your RedM files.
 
 Instruction:
