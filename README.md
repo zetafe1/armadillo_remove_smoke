@@ -13,4 +13,5 @@ and place the file popzone.ymt there.
 
 again, atm this is only client! It will only work on your RedM app not in the server!
 
-
+![nosmoke_armadillo2](https://github.com/zetafe1/armadillo_remove_smoke/assets/79672264/a2133890-e1cc-418c-b56a-42fcd262270d)
+![nosmoke_armadillo](https://github.com/zetafe1/armadillo_remove_smoke/assets/79672264/7449cecd-1882-47a3-949a-c71133ba0a27)
